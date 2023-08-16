@@ -7,4 +7,6 @@ Once you've cloned this repository to your local machine, navigate to the respec
 And here's the outcome of my script:
 ![Jenkins-Installation](https://github.com/MohcineTor/Jenkins-installation/assets/129797537/ca7464e6-d2e6-4db9-bb8e-9bffbdc8eb40)
 
+Please note that this script retrieves the initial password only required at this step:
 
+![Jenkisn12](https://github.com/MohcineTor/Jenkins-installation/assets/129797537/33c1d6cb-266e-49d0-afe0-e11af94c5052)
